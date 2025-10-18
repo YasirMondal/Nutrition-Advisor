@@ -1,0 +1,80 @@
+Food Name,Nutrition Type,Nutrition Value,Budget
+Rice (cooked),Carbs,28g carbs per 100g,Low
+Brown Rice,Carbs,23g carbs per 100g,Medium
+Roti (wheat),Carbs,18g carbs per 100g,Low
+Chapati,Carbs,19g carbs per 100g,Low
+Paratha,Carbs,30g carbs per 100g,Medium
+Poha,Carbs,25g carbs per 100g,Low
+Oats,Carbs,66g carbs per 100g,Medium
+Bread (white),Carbs,49g carbs per 100g,Low
+Bread (brown),Carbs,41g carbs per 100g,Medium
+Cornflakes,Carbs,84g carbs per 100g,Medium
+Idli,Carbs,23g carbs per 100g,Low
+Dosa,Carbs,27g carbs per 100g,Low
+Upma,Carbs,26g carbs per 100g,Low
+Pasta,Carbs,31g carbs per 100g,Medium
+Noodles,Carbs,25g carbs per 100g,Low
+Sweet Potato,Carbs,20g carbs per 100g,Low
+Potato (boiled),Carbs,17g carbs per 100g,Low
+Apple,Carbs,14g carbs per 100g,Medium
+Banana,Carbs,23g carbs per 100g,Low
+Orange,Carbs,12g carbs per 100g,Medium
+Mango,Carbs,15g carbs per 100g,Medium
+Pineapple,Carbs,13g carbs per 100g,Medium
+Watermelon,Carbs,8g carbs per 100g,Low
+Papaya,Carbs,11g carbs per 100g,Medium
+Dates,Carbs,75g carbs per 100g,High
+Honey,Carbs,82g carbs per 100g,High
+Sugar,Carbs,100g carbs per 100g,Low
+Rice Flakes,Carbs,25g carbs per 100g,Medium
+Corn (boiled),Carbs,19g carbs per 100g,Low
+Quinoa,Carbs,21g carbs per 100g,High
+Lentils (boiled),Protein,9g protein per 100g,Low
+Lentils (raw),Protein,25g protein per 100g,Low
+Moong Dal,Protein,24g protein per 100g,Low
+Chickpeas,Protein,19g protein per 100g,Low
+Kidney Beans (Rajma),Protein,24g protein per 100g,Low
+Black Gram (Urad Dal),Protein,25g protein per 100g,Low
+Soya Chunks,Protein,52g protein per 100g,Low
+Paneer,Protein,18g protein per 100g,Medium
+Tofu,Protein,8g protein per 100g,Medium
+Milk,Protein,3.4g protein per 100ml,Low
+Curd,Protein,4g protein per 100g,Low
+Egg (boiled),Protein,13g protein per 100g,Low
+Egg White,Protein,11g protein per 100g,Low
+Chicken (cooked),Protein,27g protein per 100g,Medium
+Chicken Breast,Protein,31g protein per 100g,Medium
+Fish (cooked),Protein,22g protein per 100g,High
+Mutton (cooked),Protein,25g protein per 100g,High
+Prawns,Protein,24g protein per 100g,High
+Beef,Protein,26g protein per 100g,High
+Pork,Protein,25g protein per 100g,High
+Nuts (mixed),Protein,20g protein per 100g,High
+Peanuts,Protein,26g protein per 100g,Medium
+Almonds,Protein,21g protein per 100g,High
+Walnuts,Protein,15g protein per 100g,High
+Cashews,Protein,18g protein per 100g,High
+Pumpkin Seeds,Protein,30g protein per 100g,High
+Sunflower Seeds,Protein,21g protein per 100g,Medium
+Flax Seeds,Protein,18g protein per 100g,Medium
+Peas (green),Protein,5g protein per 100g,Low
+Spinach,Fibre,High Fibre,Low
+Cabbage,Fibre,Medium Fibre,Low
+Carrot,Fibre,Medium Fibre,Low
+Broccoli,Fibre,High Fibre,Medium
+Cucumber,Fibre,Low Fibre,Low
+Beans (French),Fibre,High Fibre,Medium
+Cauliflower,Fibre,Medium Fibre,Low
+Lettuce,Fibre,Low Fibre,Low
+Capsicum,Fibre,Medium Fibre,Low
+Beetroot,Fibre,Medium Fibre,Low
+Pumpkin,Fibre,Medium Fibre,Low
+Bitter Gourd,Fibre,High Fibre,Low
+Bottle Gourd,Fibre,Medium Fibre,Low
+Drumstick,Fibre,High Fibre,Low
+Okra (Lady Finger),Fibre,Medium Fibre,Low
+Coriander Leaves,Fibre,High Fibre,Low
+Fenugreek Leaves,Fibre,High Fibre,Low
+Radish,Fibre,Medium Fibre,Low
+Tomato,Fibre,Low Fibre,Low
+Onion,Fibre,Medium Fibre,Low
